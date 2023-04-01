@@ -1,0 +1,12 @@
+*.zip
+venv
+TensorFlow-Examples-master
+StanfordDogs
+*.tar.gz
+aclImdb
+checkpoints
+dnn_models
+my_dir
+saved_model
+training_*
+insights--tensorflow-main
