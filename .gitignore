@@ -1,3 +1,4 @@
+.ipynb_checkpoints
 *.zip
 venv
 TensorFlow-Examples-master
